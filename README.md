@@ -1,7 +1,15 @@
 ## Link Collection
 * MOOC - http://digitalcurrency.unic.ac.cy/free-introductory-mooc/
 * [MOOC DFIN-511](http://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
-1. A (brief) history of money	https://db.tt/yqorTxjh
+[1. A (brief) history of money](https://db.tt/yqorTxjh)
+[Linktext](www.spiegel.de)
+[Linktext](www.spiegel.de)
+[Linktext](www.spiegel.de)
+[Linktext](www.spiegel.de)
+[Linktext](www.spiegel.de)
+[Linktext](www.spiegel.de)
+[Linktext](www.spiegel.de)
+	
 2. Byzantine Generals Problem	https://db.tt/BcYGaVB8
 3. Basics of Cryptocurrency	https://db.tt/Yqlx9DvW
 4. Bitcoin in practice - part1	https://db.tt/1qGrVT1W
