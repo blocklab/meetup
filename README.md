@@ -13,14 +13,12 @@
 * [10. Regulatory and Tax Treatment](https://db.tt/mxyVCOgl)
 * [11. Digital Currency and innovation](https://db.tt/CSy7iC1s)
 * [12. Digital Currencies and the Developing World](https://db.tt/pAqXuGz5)
-* 
 ### Basic Bitcoin
 * [Andreas Antonopoulos: “Mastering Bitcoin, Unlocking Digital Crypto-Currencies”](https://github.com/aantonop/bitcoinbook/blob/develop/ch01.asciidoc)
 * [Wences Cesares : What is Bitcoin ?](https://www.linkedin.com/pulse/20141120164624-208991-what-is-bitcoin)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System (Satoshi Nakamoto)](https://bitcoin.org/bitcoin.pdf)
 * [Bitcoin Wiki](https://en.bitcoin.it/)
-* 
-###
+### 
 * [Linktext](www.spiegel.de)
 
 	
