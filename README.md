@@ -14,7 +14,7 @@
 * [11. Digital Currency and innovation](https://db.tt/CSy7iC1s)
 * [12. Digital Currencies and the Developing World](https://db.tt/pAqXuGz5)
 
-### Basic Bitcoin
+### Bitcoin Basics 
 * [Andreas Antonopoulos: “Mastering Bitcoin, Unlocking Digital Crypto-Currencies”](https://github.com/aantonop/bitcoinbook/blob/develop/ch01.asciidoc)
 * [Wences Cesares : What is Bitcoin ?](https://www.linkedin.com/pulse/20141120164624-208991-what-is-bitcoin)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System (Satoshi Nakamoto)](https://bitcoin.org/bitcoin.pdf)
@@ -22,6 +22,14 @@
 
 ### Text
 * [Linktext](www.spiegel.de)
+
+### Smart Contracts
+
+### Ethereum
+
+### Blockchain Technology
+
+### Blockchain Investment
 
 	
 	
@@ -41,5 +49,5 @@ Blockchain.info	http://blockchain.info/
 Choose your Bitcoin wallet	https://bitcoin.org/en/choose-your-wallet
 MultiBit	https://multibit.org/
 BitGo	https://www.bitgo.com/
-Bitcoin Series 24: Master Blockchain List	http http://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin ://ledracapital.com/blog/2014/3/11/bitcoin -series series -24 -the -mega mega-master master master -blockchain blockchain blockchainblockchain-list list
+Bitcoin Series 24: Master Blockchain List	http://ledracapital.com/blog/2014/3/11/bitcoin 
 Smart Contracts Contracts, N. Szabo	http://szabo.best.vwh.net/smart_contracts_idea.html
