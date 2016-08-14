@@ -49,5 +49,5 @@ Blockchain.info	http://blockchain.info/
 Choose your Bitcoin wallet	https://bitcoin.org/en/choose-your-wallet
 MultiBit	https://multibit.org/
 BitGo	https://www.bitgo.com/
-Bitcoin Series 24: Master Blockchain List	http://ledracapital.com/blog/2014/3/11/bitcoin 
+Bitcoin Series 24: Master Blockchain List	http://ledracapital.com/blog/2014/3/11/bitcoinhttp://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list
 Smart Contracts Contracts, N. Szabo	http://szabo.best.vwh.net/smart_contracts_idea.html
