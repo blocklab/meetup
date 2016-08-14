@@ -1,7 +1,7 @@
 ## Link Collection
 * MOOC - http://digitalcurrency.unic.ac.cy/free-introductory-mooc/
 * [MOOC DFIN-511](http://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
-[1. A (brief) history of money](https://db.tt/yqorTxjh)
+* [1. A (brief) history of money](https://db.tt/yqorTxjh)
 [Linktext](www.spiegel.de)
 [Linktext](www.spiegel.de)
 [Linktext](www.spiegel.de)
